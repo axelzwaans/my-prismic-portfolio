@@ -1,0 +1,25 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "met",
+				"type": "Text"
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Proident exercitation esse duis irure reprehenderit magna eiusmod aute mollit et qui consequat reprehenderit. Proident amet irure sint proident ad."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
